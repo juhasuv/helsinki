@@ -1,7 +1,7 @@
 # Webkamerat
 
 ## Windy
-[](https://www.windy.com/fi/-Webkamerat/webcams?satellite,60.207,24.551,11)
+[https://www.windy.com/fi/-Webkamerat/webcams?satellite,60.207,24.551,11]
 
 ## Helsinki Shipyard
 https://helsinkishipyard.panomax.com/
