@@ -1,0 +1,37 @@
+body {
+    font-family: HelsinkiGrotesk, Arial, sans-serif;
+}
+
+h1 {
+    margin-top: 3rem;
+    margin-bottom: 0.5rem;
+}
+
+h2 {
+    margin-top: 1rem;
+    margin-bottom: 0.25rem;
+}
+
+p {
+    margin: 0;
+}
+
+.header {
+    background-color: #fff;
+}
+
+.navbar {
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+}
+
+.content {
+    background-color: #fff;
+
+}
+
+.footer {
+    background-color: #fff;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+}
